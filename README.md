@@ -110,7 +110,7 @@ Luego también editamos este readme para agregar los comandos con los que hicimo
 
 ```
 vi README.md
-...
+.PEGO ACA MI ULTIMA MODIFICACION DEL README.md!!! ..
 git add README.md
 git commit
 ```
